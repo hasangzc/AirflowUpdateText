@@ -1,4 +1,4 @@
 # AirflowUpdateText
 Simple Airflow App
 
-<img src="project.png" width=500 height=400>
+<img src="project.png" width=700 height=200>
